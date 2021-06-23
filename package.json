@@ -1,0 +1,19 @@
+{
+  "name": "reveal-frontend-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "infragistics.reveal-1.0.4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeover/reveal-frontend-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeover/reveal-frontend-sdk/issues"
+  },
+  "homepage": "https://github.com/mikeover/reveal-frontend-sdk#readme"
+}
